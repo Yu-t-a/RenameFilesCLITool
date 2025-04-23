@@ -21,7 +21,7 @@ A simple, lightweight, and type-safe CLI tool built with TypeScript to **batch r
 
 ```bash
 git clone https://github.com/your-username/ts-rename-cli.git
-cd ts-rename-cli
+
 ```
 
 ```bash
