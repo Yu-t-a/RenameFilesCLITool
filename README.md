@@ -18,6 +18,11 @@ A simple, lightweight, and type-safe CLI tool built with TypeScript to **batch r
 
 ### 1. Clone the repository
 
+```bash
+sudo apt update
+sudo apt install nodejs npm -y
+npm install -g typescript ts-node
+```
 
 ```bash
 npm init -y
