@@ -1,5 +1,4 @@
-# สร้างไฟล์ README.md ที่มีเนื้อหาตามที่ผู้ใช้ต้องการ
-readme_content = """# 🔁 TypeScript CLI - Rename Files Tool
+# 🔁 TypeScript CLI - Rename Files Tool
 
 A simple, lightweight, and type-safe CLI tool built with TypeScript to **batch rename files** in a folder based on **file type** and a **custom prefix**. Perfect for file organization, bulk renaming, and automation tasks.
 
