@@ -19,10 +19,6 @@ A simple, lightweight, and type-safe CLI tool built with TypeScript to **batch r
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/your-username/ts-rename-cli.git
-
-```
 
 ```bash
 npm init -y
