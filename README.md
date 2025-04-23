@@ -21,17 +21,18 @@ A simple, lightweight, and type-safe CLI tool built with TypeScript to **batch r
 ```bash
 sudo apt update
 sudo apt install nodejs npm -y
+node -v
+npm -v
+```
+
+Global
+```bash
 npm install -g typescript ts-node
 ```
 
+Local
 ```bash
-npm init -y
 npm install typescript ts-node @types/node
-npx tsc --init
-```
-
-```bash
-npm install --save-dev @types/node
 ```
 
 tsconfig.json
@@ -47,6 +48,6 @@ tsconfig.json
 ```
 
 ```bash
-ts-node rename.ts ./images --prefix=new_
+ts-node rename.ts ./images --type=.jpg --prefix=new_1
 ```
 
