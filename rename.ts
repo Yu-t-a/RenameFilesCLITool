@@ -35,6 +35,10 @@ if (!folderArg || !typeArg?.startsWith('--type=') || !prefixArg?.startsWith('--p
 
 const fileType = typeArg.split('=')[1];
 const prefix = prefixArg.split('=')[1];
+<<<<<<< HEAD
 
+=======
+console.log(fileType)
+>>>>>>> dev
 
 renameFilesInFolder(folderArg, fileType, prefix);
